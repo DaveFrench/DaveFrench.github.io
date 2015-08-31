@@ -5,6 +5,7 @@ permalink: /games/
 published: true
 ---
 
+
 <div class="posts">
   {% for post in site.posts %}
     {% if post.categorys contains 'game' %}
@@ -13,11 +14,10 @@ published: true
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
  
       <div class="entry">
-        {{ post.excerpt }}
+        {{ post.content }}
       </div>
  
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+      </article>
     {% endif %}
   {% endfor %}
 </div>
