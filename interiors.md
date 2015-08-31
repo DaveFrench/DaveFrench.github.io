@@ -1,7 +1,9 @@
 ---
 layout: page
-title: About
+title: INTERIOR REFURBISHMENT
 permalink: /interiors/
+published: true
 ---
 
-## The Interiors Industry 
+
+## The Interiors Industry
