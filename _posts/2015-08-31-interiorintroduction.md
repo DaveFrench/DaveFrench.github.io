@@ -1,12 +1,11 @@
 ---
 published: true
----
-
-
----
 layout: post
 title: Introduction
-category: Interiors
+category: interiors
 ---
+
+
+
 
 Spending 23 years ......
