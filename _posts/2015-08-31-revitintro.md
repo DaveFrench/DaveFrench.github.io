@@ -1,9 +1,10 @@
 ---
 published: true
 layout: post
-title: Revit Intro
+title: Introduction
 categorys: revit
 ---
+
 
 Having worked in the construction industry, I have been used to the complications due to uncoordinated documentation, Many a time, I have seen drawings showing services running over window openings, and AC outlets on top of partition walls.
 
