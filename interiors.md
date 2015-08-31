@@ -1,6 +1,6 @@
 ---
 layout: page
-title: INTERIOR REFURBISHMENT
+title: Interior Refurbishment
 permalink: /interiors/
 published: true
 ---
