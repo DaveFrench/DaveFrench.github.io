@@ -5,11 +5,6 @@ permalink: /interiors/
 published: true
 ---
 
-
-
-
-## The Interiors Industry
-
 <div class="posts">
   {% for post in site.posts %}
   	{% if post.categorys contains 'interiors' %}
