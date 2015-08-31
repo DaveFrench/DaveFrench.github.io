@@ -7,10 +7,12 @@ published: true
 
 
 
+
 ## The Interiors Industry
 
 <div class="posts">
   {% for post in site.posts %}
+  	{% if post.categorys contails 'interiors' %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -21,5 +23,6 @@ published: true
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
+    {% endif %}
   {% endfor %}
 </div>
