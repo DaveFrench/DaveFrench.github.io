@@ -1,7 +1,9 @@
 ---
 layout: page
-title: About
+title: LMMS
 permalink: /lmms/
+published: true
 ---
+
 
 ## LMMS
