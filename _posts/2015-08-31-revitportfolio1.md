@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Portfolio Project, 4 Storey RC Residential"
+title: "A Portfolio Project, 4 Storey RC Residential"
 catagorys: revit
 categorys: revit
 ---
