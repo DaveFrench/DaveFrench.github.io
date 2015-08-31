@@ -5,6 +5,7 @@ permalink: /revit/
 published: true
 ---
 
+
 <div class="posts">
   {% for post in site.posts %}
     {% if post.categorys contains 'revit' %}
@@ -15,12 +16,8 @@ published: true
       <div class="entry">
         {{ post.excerpt }}
       </div>
- 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+
     </article>
     {% endif %}
   {% endfor %}
 </div>
-
-
-
