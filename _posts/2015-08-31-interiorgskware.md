@@ -1,11 +1,12 @@
 ---
-published: false
+published: true
 layout: post
 category: interiors
 categories: interiors
 categorys: interiors
 title: GlaxoSmithKline Ware
 ---
+
 
 At GSK I was site supervisor for Stortford Interiors, Overseeing major refurbishment works, While adapting to the changing needs of the reaminder of the research facility. 
 
