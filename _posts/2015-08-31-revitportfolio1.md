@@ -5,6 +5,4 @@ title: "Portfolio Project, 4 Storey RC Residential"
 catagorys: revit
 ---
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+![DownLoad PDF](https://www.dropbox.com/s/hup91nn9wg6mknv/DJF-05.pdf?dl=0)
