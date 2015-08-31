@@ -5,6 +5,5 @@ categorys: game
 layout: post
 ---
 
-## A New Post
+<iframe width="640" height="360" src="https://www.youtube.com/embed/fFoYqRnEels" frameborder="0" allowfullscreen></iframe>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
