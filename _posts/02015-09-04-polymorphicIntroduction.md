@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Polymorphic
 layout: post
 categorys: polymorphic
